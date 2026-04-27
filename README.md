@@ -1,0 +1,1 @@
+# EXPLORA_cluster_espacial_establecimientos
